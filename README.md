@@ -1,16 +1,25 @@
-# momentum
+# 📱 Momentum - Intelligent Task Management
 
-A new Flutter project.
+**Momentum** is a sophisticated cross-platform mobile application designed to enhance productivity through intelligent task tracking and time management. Built with a focus on clean code and premium user experience.
 
-## Getting Started
+## ✨ Key Features
+* 🔔 **Advanced Notifications:** Local notifications with timezone support and real-time badge counters.
+* 🎛️ **Smart Filtering:** Multi-criteria filtering by status, project, and date.
+* 📴 **Offline First:** Seamless performance without internet using Hive local storage.
+* 🎨 **Premium UI:** Responsive design with Glassmorphism, custom animations, and Dark/Light modes.
+* 🛡️ **Reliable Architecture:** Built following Clean Architecture principles for maximum scalability.
 
-This project is a starting point for a Flutter application.
+## 🛠️ Tech Stack
+* **Framework:** Flutter (Dart) 🚀
+* **State Management:** BLoC / Cubit 🏗️
+* **Database:** Hive 📦
+* **Dependency Injection:** Get_it 🧩
+* **UI & Animations:** Google Fonts, Flutter SVG, Custom Curves 🎨
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Getting Started
+1. Clone the repository: `git clone https://github.com/ahmedsamir54/momentum.git`
+2. Install dependencies: `flutter pub get`
+3. Run the app: `flutter run`
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+Developed with ❤️ by [Ahmed Samir](https://github.com/ahmedsamir54)
